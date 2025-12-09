@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mr. R. Sivanandham",
+    "degree": "M.E.",
+    "designation": "Programmer",
+    "phone": "6374281598"
+  },
+  {
+    "name": "Ms. K. Shyamala",
+    "degree": "M.C.A.",
+    "designation": "Programmer",
+    "phone": "9566238953"
+  },
+  {
+    "name": "Ms. S. Valli",
+    "degree": "M.C.A.",
+    "designation": "Programmer",
+    "phone": "9944330999"
+  },
+  {
+    "name": "Mr. R. Saranraj",
+    "degree": "B.E.",
+    "designation": "Programmer",
+    "phone": "8012199282"
+  },
+  {
+    "name": "Ms. S. Jamunarani",
+    "degree": "Diploma",
+    "designation": "Lab Assistant",
+    "phone": "9789845307"
+  },
+  {
+    "name": "Ms. S. Subashini",
+    "degree": "M.Phil., M.C.A.",
+    "designation": "Programmer",
+    "phone": "9841691918"
+  }
+]
